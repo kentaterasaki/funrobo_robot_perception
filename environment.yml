@@ -1,0 +1,15 @@
+name: funrobo_vision
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - matplotlib
+  - jupyterlab
+  - notebook
+  - ipykernel
+  - ipywidgets
+  - open3d
+  - pip
